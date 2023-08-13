@@ -1,7 +1,7 @@
 # RR2PSP-Cwcheats
 A bunch of cheat codes for Ridge Racers 2 EU made by me
 ## Recommendations:
-- Use First person view while no-clipping and don't go too far from the map.
+- Use First Person view while no-clipping and don't go too far from the map.
 - Use Tour Editor codes in Custom Tour.
 - Car Editor works only during a race (can't see it in the selection screen).
 ## Codes
